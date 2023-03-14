@@ -1,4 +1,4 @@
-# Install gromacs-2023 on WSL2
+# Install gromacs-2023 and Amber 20 on WSL2
 
 This is a installation guide about installing gromacs-2023 and amber 20 on WSL2 with cuda-11.6.
 
